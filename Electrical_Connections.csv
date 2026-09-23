@@ -1,0 +1,21 @@
+Reference,Pin_1,Net_1,Pin_2,Net_2,Notes
+BR1_D1,diode anode,PZ1_A,diode cathode,VIN,"low-leakage, >=75 V diode; select/qualify"
+BR1_D2,diode anode,PZ1_B,diode cathode,VIN,"low-leakage, >=75 V diode; select/qualify"
+BR1_D3,diode anode,GND,diode cathode,PZ1_A,"low-leakage, >=75 V diode; select/qualify"
+BR1_D4,diode anode,GND,diode cathode,PZ1_B,"low-leakage, >=75 V diode; select/qualify"
+BR2_D1,diode anode,PZ2_A,diode cathode,VIN,"low-leakage, >=75 V diode; select/qualify"
+BR2_D2,diode anode,PZ2_B,diode cathode,VIN,"low-leakage, >=75 V diode; select/qualify"
+BR2_D3,diode anode,GND,diode cathode,PZ2_A,"low-leakage, >=75 V diode; select/qualify"
+BR2_D4,diode anode,GND,diode cathode,PZ2_B,"low-leakage, >=75 V diode; select/qualify"
+BR3_D1,diode anode,PZ3_A,diode cathode,VIN,"low-leakage, >=75 V diode; select/qualify"
+BR3_D2,diode anode,PZ3_B,diode cathode,VIN,"low-leakage, >=75 V diode; select/qualify"
+BR3_D3,diode anode,GND,diode cathode,PZ3_A,"low-leakage, >=75 V diode; select/qualify"
+BR3_D4,diode anode,GND,diode cathode,PZ3_B,"low-leakage, >=75 V diode; select/qualify"
+CIN,1,VIN,2,GND,"47 uF effective, >=35 V"
+COUT,1,VOUT,2,GND,"47 uF, >=6.3 V"
+L1,1,SW,2,VOUT,10 uH; select current rating per datasheet
+CCAP,1,CAP,2,VIN,1 uF
+CVIN2,1,VIN2,2,GND,4.7 uF
+U1,D1,VIN2,D0,GND,LTC3588-1: 3.3 V selection
+U1,PZ1,NC,PZ2,NC,internal bridge unused; external rectifiers feed VIN
+U1,GND / pad,GND,PGOOD,test point,do not treat IC current rating as available harvested power

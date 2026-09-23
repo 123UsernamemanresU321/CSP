@@ -1,0 +1,2842 @@
+[
+  {
+    "code": "A01",
+    "name": "Housing and six structural stops",
+    "color": "#485a6a",
+    "group": "Housing",
+    "material": "6061-T6 aluminium",
+    "notes": "CNC concept; six integral \u00d812 stops finish at z40. Three \u00d83 weeps; underside cable port.",
+    "motion": "fixed",
+    "explode": 0,
+    "angle": 0,
+    "bbox": [
+      -115.47005383792518,
+      -100.0,
+      -8.031769693772617e-16,
+      115.47005383792516,
+      100.00000000000001,
+      50.0
+    ],
+    "volume_mm3": 286965.32719520247
+  },
+  {
+    "code": "A02",
+    "name": "Perimeter sliding wiper",
+    "color": "#263743",
+    "group": "Seals",
+    "material": "EPDM",
+    "notes": "Nominal lip envelope in 2 mm groove; friction and water ingress unqualified.",
+    "motion": "fixed",
+    "explode": 12,
+    "angle": 0,
+    "bbox": [
+      -113.16065276116666,
+      -98.0,
+      46.5,
+      113.16065276116666,
+      98.00000000000001,
+      47.5
+    ],
+    "volume_mm3": 1344.071426673443
+  },
+  {
+    "code": "A03_1",
+    "name": "Stop bumper ring",
+    "color": "#263743",
+    "group": "Stops",
+    "material": "EPDM",
+    "notes": "Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.",
+    "motion": "fixed",
+    "explode": 5,
+    "angle": 0,
+    "bbox": [
+      63.880108514108414,
+      33.49999999999999,
+      39.5,
+      79.88010851410841,
+      49.49999999999999,
+      40.5
+    ],
+    "volume_mm3": 87.96459430051414
+  },
+  {
+    "code": "A03_2",
+    "name": "Stop bumper ring",
+    "color": "#263743",
+    "group": "Stops",
+    "material": "EPDM",
+    "notes": "Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.",
+    "motion": "fixed",
+    "explode": 5,
+    "angle": 0,
+    "bbox": [
+      -7.999999999999995,
+      75.0,
+      39.5,
+      8.000000000000005,
+      91.0,
+      40.5
+    ],
+    "volume_mm3": 87.96459430051424
+  },
+  {
+    "code": "A03_3",
+    "name": "Stop bumper ring",
+    "color": "#263743",
+    "group": "Stops",
+    "material": "EPDM",
+    "notes": "Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.",
+    "motion": "fixed",
+    "explode": 5,
+    "angle": 0,
+    "bbox": [
+      -79.88010851410841,
+      33.49999999999999,
+      39.5,
+      -63.880108514108414,
+      49.49999999999999,
+      40.5
+    ],
+    "volume_mm3": 87.96459430051415
+  },
+  {
+    "code": "A03_4",
+    "name": "Stop bumper ring",
+    "color": "#263743",
+    "group": "Stops",
+    "material": "EPDM",
+    "notes": "Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.",
+    "motion": "fixed",
+    "explode": 5,
+    "angle": 0,
+    "bbox": [
+      -79.8801085141084,
+      -49.50000000000001,
+      39.5,
+      -63.88010851410839,
+      -33.50000000000001,
+      40.5
+    ],
+    "volume_mm3": 87.96459430051418
+  },
+  {
+    "code": "A03_5",
+    "name": "Stop bumper ring",
+    "color": "#263743",
+    "group": "Stops",
+    "material": "EPDM",
+    "notes": "Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.",
+    "motion": "fixed",
+    "explode": 5,
+    "angle": 0,
+    "bbox": [
+      -8.000000000000016,
+      -91.0,
+      39.5,
+      7.999999999999985,
+      -75.0,
+      40.5
+    ],
+    "volume_mm3": 87.96459430051422
+  },
+  {
+    "code": "A03_6",
+    "name": "Stop bumper ring",
+    "color": "#263743",
+    "group": "Stops",
+    "material": "EPDM",
+    "notes": "Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.",
+    "motion": "fixed",
+    "explode": 5,
+    "angle": 0,
+    "bbox": [
+      63.880108514108386,
+      -49.500000000000036,
+      39.5,
+      79.88010851410839,
+      -33.500000000000036,
+      40.5
+    ],
+    "volume_mm3": 87.96459430051414
+  },
+  {
+    "code": "A04",
+    "name": "Underside cable grommet",
+    "color": "#263743",
+    "group": "Seals",
+    "material": "EPDM",
+    "notes": "Cable exits underside into a receiving recess; cable itself excluded from rigid envelope.",
+    "motion": "fixed",
+    "explode": 0,
+    "angle": 0,
+    "bbox": [
+      -4.0,
+      -64.0,
+      0.0,
+      4.0,
+      -56.0,
+      5.0
+    ],
+    "volume_mm3": 188.4955592153876
+  },
+  {
+    "code": "A10",
+    "name": "Moving load-spreading plate",
+    "color": "#a5b7c7",
+    "group": "Cover",
+    "material": "6061-T6 aluminium",
+    "notes": "18 countersunk M3 fixing holes; 1.00 mm side clearance to pan.",
+    "motion": "cover",
+    "explode": 85,
+    "angle": 0,
+    "bbox": [
+      -110.85125168440815,
+      -96.0,
+      42.0,
+      110.85125168440815,
+      96.00000000000001,
+      48.0
+    ],
+    "volume_mm3": 190202.68220399792
+  },
+  {
+    "code": "A11",
+    "name": "Replaceable textured tread",
+    "color": "#177b79",
+    "group": "Cover",
+    "material": "EPDM rubber",
+    "notes": "2 mm nominal including adhesive allowance; grooves 0.35 mm deep. Slip resistance untested.",
+    "motion": "cover",
+    "explode": 105,
+    "angle": 0,
+    "bbox": [
+      -110.85125168440815,
+      -96.0,
+      48.0,
+      110.85125168440817,
+      96.00000000000006,
+      50.0
+    ],
+    "volume_mm3": 62446.46809859733
+  },
+  {
+    "code": "F01_1",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      24.950000000000003,
+      -22.4,
+      38.0,
+      31.75,
+      -15.6,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_2",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      24.950000000000003,
+      15.6,
+      38.0,
+      31.75,
+      22.4,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011123
+  },
+  {
+    "code": "F01_3",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      77.1,
+      -28.9,
+      38.0,
+      83.9,
+      -22.1,
+      48.00000000000001
+    ],
+    "volume_mm3": 89.7029503201112
+  },
+  {
+    "code": "F01_4",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      77.1,
+      22.1,
+      38.0,
+      83.9,
+      28.9,
+      48.00000000000001
+    ],
+    "volume_mm3": 89.7029503201112
+  },
+  {
+    "code": "F01_5",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      -1.1205173280956564,
+      30.651820197288835,
+      38.0,
+      5.679482671904347,
+      37.45182019728883,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_6",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      -34.02948267190433,
+      11.65182019728884,
+      38.0,
+      -27.229482671904332,
+      18.45182019728884,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_7",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      -21.56635220349679,
+      79.06504500464732,
+      38.0,
+      -14.766352203496792,
+      85.86504500464733,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_8",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      -65.73364779650316,
+      53.56504500464733,
+      38.0,
+      -58.933647796503166,
+      60.36504500464733,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_9",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      -34.02948267190434,
+      -18.45182019728882,
+      38.0,
+      -27.229482671904343,
+      -11.65182019728882,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_10",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      -1.120517328095683,
+      -37.45182019728884,
+      38.0,
+      5.679482671904319,
+      -30.651820197288842,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_11",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      -65.73364779650322,
+      -60.36504500464728,
+      38.0,
+      -58.933647796503216,
+      -53.56504500464728,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011123
+  },
+  {
+    "code": "F01_12",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      -21.566352203496855,
+      -85.86504500464731,
+      38.0,
+      -14.766352203496856,
+      -79.0650450046473,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_13",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      26.60000000000001,
+      64.14998149518621,
+      38.0,
+      33.400000000000006,
+      70.94998149518622,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011123
+  },
+  {
+    "code": "F01_14",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      44.60000000000001,
+      64.14998149518621,
+      38.0,
+      51.400000000000006,
+      70.94998149518622,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011123
+  },
+  {
+    "code": "F01_15",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      -90.4,
+      -3.39999999999999,
+      38.0,
+      -83.6,
+      3.4000000000000097,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_16",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      -72.4,
+      -3.39999999999999,
+      38.0,
+      -65.6,
+      3.4000000000000097,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_17",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      26.60000000000001,
+      -70.94998149518622,
+      38.0,
+      33.400000000000006,
+      -64.14998149518621,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "F01_18",
+    "name": "Cover mounting screw M3 x 10",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Thread envelope; no helical threads.",
+    "motion": "cover",
+    "explode": 90,
+    "angle": 0,
+    "bbox": [
+      44.60000000000001,
+      -70.94998149518622,
+      38.0,
+      51.400000000000006,
+      -64.14998149518621,
+      48.0
+    ],
+    "volume_mm3": 89.70295032011121
+  },
+  {
+    "code": "G01_1",
+    "name": "Captive guide and return retainer",
+    "color": "#c8d3df",
+    "group": "Guides",
+    "material": "Stainless steel",
+    "notes": "\u00d86 shaft, \u00d810 head; lower M4 female thread. Head underside at z36 sets rest height.",
+    "motion": "fixed",
+    "explode": 10,
+    "angle": 0,
+    "bbox": [
+      34.00000000000001,
+      62.549981495186216,
+      5.0,
+      44.00000000000001,
+      72.54998149518622,
+      39.0
+    ],
+    "volume_mm3": 1043.6999113756012
+  },
+  {
+    "code": "G02_1",
+    "name": "Sliding guide cup and spring seat",
+    "color": "#a5b7c7",
+    "group": "Guides",
+    "material": "6061-T6 aluminium",
+    "notes": "\u00d88 liner seat; \u00d810.60 head pocket. Four-mm flange seats spring at z38.",
+    "motion": "cover",
+    "explode": 58,
+    "angle": 0,
+    "bbox": [
+      27.000000000000007,
+      55.549981495186216,
+      25.0,
+      51.00000000000001,
+      79.54998149518622,
+      42.0
+    ],
+    "volume_mm3": 2689.0776477667196
+  },
+  {
+    "code": "G03_1",
+    "name": "Replaceable guide liner",
+    "color": "#41576a",
+    "group": "Guides",
+    "material": "POM",
+    "notes": "\u00d88 outside / \u00d86.10 inside / 11 long. Nominal mating fit; retention to be qualified.",
+    "motion": "cover",
+    "explode": 58,
+    "angle": 0,
+    "bbox": [
+      35.00000000000001,
+      63.549981495186216,
+      25.0,
+      43.00000000000001,
+      71.54998149518622,
+      36.0
+    ],
+    "volume_mm3": 231.4489847715939
+  },
+  {
+    "code": "S01_1",
+    "name": "Return spring",
+    "color": "#e6b960",
+    "group": "Springs",
+    "material": "Spring steel",
+    "notes": "Custom target: wire 2.5, mean \u00d818, 5 active / 7 total turns, free 34, installed 33 mm.",
+    "motion": "spring",
+    "explode": 15,
+    "angle": 0,
+    "bbox": [
+      28.752385529500607,
+      57.30236715644305,
+      5.001221414241707,
+      49.24820057432615,
+      77.79759418098963,
+      37.998779510096405
+    ],
+    "volume_mm3": 1943.5003108650665
+  },
+  {
+    "code": "F02_1",
+    "name": "Guide anchor countersunk M4 x 11 envelope",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Custom nominal length envelope; engagement is 6 mm into guide. Threads simplified.",
+    "motion": "fixed",
+    "explode": -8,
+    "angle": 0,
+    "bbox": [
+      34.60000000000001,
+      63.14998149518622,
+      0.0,
+      43.400000000000006,
+      71.94998149518622,
+      11.0
+    ],
+    "volume_mm3": 184.6753825486224
+  },
+  {
+    "code": "G01_2",
+    "name": "Captive guide and return retainer",
+    "color": "#c8d3df",
+    "group": "Guides",
+    "material": "Stainless steel",
+    "notes": "\u00d86 shaft, \u00d810 head; lower M4 female thread. Head underside at z36 sets rest height.",
+    "motion": "fixed",
+    "explode": 10,
+    "angle": 0,
+    "bbox": [
+      -83.0,
+      -4.99999999999999,
+      5.0,
+      -73.0,
+      5.00000000000001,
+      39.0
+    ],
+    "volume_mm3": 1043.6999113756008
+  },
+  {
+    "code": "G02_2",
+    "name": "Sliding guide cup and spring seat",
+    "color": "#a5b7c7",
+    "group": "Guides",
+    "material": "6061-T6 aluminium",
+    "notes": "\u00d88 liner seat; \u00d810.60 head pocket. Four-mm flange seats spring at z38.",
+    "motion": "cover",
+    "explode": 58,
+    "angle": 0,
+    "bbox": [
+      -90.0,
+      -11.999999999999991,
+      25.0,
+      -66.0,
+      12.000000000000009,
+      42.0
+    ],
+    "volume_mm3": 2689.077647766719
+  },
+  {
+    "code": "G03_2",
+    "name": "Replaceable guide liner",
+    "color": "#41576a",
+    "group": "Guides",
+    "material": "POM",
+    "notes": "\u00d88 outside / \u00d86.10 inside / 11 long. Nominal mating fit; retention to be qualified.",
+    "motion": "cover",
+    "explode": 58,
+    "angle": 0,
+    "bbox": [
+      -82.0,
+      -3.9999999999999902,
+      25.0,
+      -74.0,
+      4.00000000000001,
+      36.0
+    ],
+    "volume_mm3": 231.4489847715942
+  },
+  {
+    "code": "S01_2",
+    "name": "Return spring",
+    "color": "#e6b960",
+    "group": "Springs",
+    "material": "Spring steel",
+    "notes": "Custom target: wire 2.5, mean \u00d818, 5 active / 7 total turns, free 34, installed 33 mm.",
+    "motion": "spring",
+    "explode": 15,
+    "angle": 0,
+    "bbox": [
+      -88.24761447049913,
+      -10.247614338743023,
+      5.001221414241707,
+      -67.75179942567418,
+      10.24761268580344,
+      37.998779510096405
+    ],
+    "volume_mm3": 1943.5003108650992
+  },
+  {
+    "code": "F02_2",
+    "name": "Guide anchor countersunk M4 x 11 envelope",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Custom nominal length envelope; engagement is 6 mm into guide. Threads simplified.",
+    "motion": "fixed",
+    "explode": -8,
+    "angle": 0,
+    "bbox": [
+      -82.4,
+      -4.399999999999991,
+      0.0,
+      -73.6,
+      4.40000000000001,
+      11.0
+    ],
+    "volume_mm3": 184.67538254862245
+  },
+  {
+    "code": "G01_3",
+    "name": "Captive guide and return retainer",
+    "color": "#c8d3df",
+    "group": "Guides",
+    "material": "Stainless steel",
+    "notes": "\u00d86 shaft, \u00d810 head; lower M4 female thread. Head underside at z36 sets rest height.",
+    "motion": "fixed",
+    "explode": 10,
+    "angle": 0,
+    "bbox": [
+      34.00000000000001,
+      -72.54998149518622,
+      5.0,
+      44.00000000000001,
+      -62.549981495186216,
+      39.0
+    ],
+    "volume_mm3": 1043.6999113756012
+  },
+  {
+    "code": "G02_3",
+    "name": "Sliding guide cup and spring seat",
+    "color": "#a5b7c7",
+    "group": "Guides",
+    "material": "6061-T6 aluminium",
+    "notes": "\u00d88 liner seat; \u00d810.60 head pocket. Four-mm flange seats spring at z38.",
+    "motion": "cover",
+    "explode": 58,
+    "angle": 0,
+    "bbox": [
+      27.000000000000007,
+      -79.54998149518622,
+      25.0,
+      51.00000000000001,
+      -55.549981495186216,
+      42.0
+    ],
+    "volume_mm3": 2689.0776477667196
+  },
+  {
+    "code": "G03_3",
+    "name": "Replaceable guide liner",
+    "color": "#41576a",
+    "group": "Guides",
+    "material": "POM",
+    "notes": "\u00d88 outside / \u00d86.10 inside / 11 long. Nominal mating fit; retention to be qualified.",
+    "motion": "cover",
+    "explode": 58,
+    "angle": 0,
+    "bbox": [
+      35.00000000000001,
+      -71.54998149518622,
+      25.0,
+      43.00000000000001,
+      -63.549981495186216,
+      36.0
+    ],
+    "volume_mm3": 231.4489847715939
+  },
+  {
+    "code": "S01_3",
+    "name": "Return spring",
+    "color": "#e6b960",
+    "group": "Springs",
+    "material": "Spring steel",
+    "notes": "Custom target: wire 2.5, mean \u00d818, 5 active / 7 total turns, free 34, installed 33 mm.",
+    "motion": "spring",
+    "explode": 15,
+    "angle": 0,
+    "bbox": [
+      28.752385529500607,
+      -77.79759583392907,
+      5.001221414241707,
+      49.24820057432615,
+      -57.30236880938279,
+      37.998779510096405
+    ],
+    "volume_mm3": 1943.5003108650312
+  },
+  {
+    "code": "F02_3",
+    "name": "Guide anchor countersunk M4 x 11 envelope",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "Custom nominal length envelope; engagement is 6 mm into guide. Threads simplified.",
+    "motion": "fixed",
+    "explode": -8,
+    "angle": 0,
+    "bbox": [
+      34.60000000000001,
+      -71.94998149518622,
+      0.0,
+      43.400000000000006,
+      -63.14998149518622,
+      11.0
+    ],
+    "volume_mm3": 184.6753825486224
+  },
+  {
+    "code": "H01_1",
+    "name": "Cantilever root tower",
+    "color": "#41576a",
+    "group": "Cantilevers",
+    "material": "POM",
+    "notes": "Top and bottom blind threaded bores stay separate. Clamp screws sit outside piezo width.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      22.0,
+      -22.0,
+      28.355,
+      34.7,
+      22.0,
+      42.0
+    ],
+    "volume_mm3": 7525.718569256285
+  },
+  {
+    "code": "H02_1",
+    "name": "Removable lower clamp",
+    "color": "#41576a",
+    "group": "Cantilevers",
+    "material": "POM",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      22.0,
+      -22.0,
+      24.645,
+      34.7,
+      22.0,
+      27.645
+    ],
+    "volume_mm3": 1621.924783386753
+  },
+  {
+    "code": "H031_1",
+    "name": "Root electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Cantilevers",
+    "material": "Polyimide",
+    "notes": "0.10 mm nominal; supplier must approve clamp construction.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      22.0,
+      -15.9,
+      27.645,
+      34.7,
+      15.9,
+      27.745
+    ],
+    "volume_mm3": 40.38600000000058
+  },
+  {
+    "code": "H032_1",
+    "name": "Root electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Cantilevers",
+    "material": "Polyimide",
+    "notes": "0.10 mm nominal; supplier must approve clamp construction.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      22.0,
+      -15.9,
+      28.255,
+      34.7,
+      15.9,
+      28.355
+    ],
+    "volume_mm3": 40.38600000000058
+  },
+  {
+    "code": "P01_1",
+    "name": "PZT 5A bimorph",
+    "color": "#8272cb",
+    "group": "Piezos",
+    "material": "PZT / brass laminate",
+    "notes": "T220-A4BR-2513XB mechanical envelope. Free length 50.8 mm. Nominal flat, before gravity sag.",
+    "motion": "beam",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      22.0,
+      -15.9,
+      27.745,
+      85.5,
+      15.9,
+      28.255000000000003
+    ],
+    "volume_mm3": 1029.8430000000033
+  },
+  {
+    "code": "H04_1",
+    "name": "Tip proof mass",
+    "color": "#ce9560",
+    "group": "Tip masses",
+    "material": "Stainless steel",
+    "notes": "10 x 40 x 3 blank = 9.60 g before two tapped holes; actual CAD volume in BOM.",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      75.5,
+      -20.0,
+      24.645,
+      85.5,
+      20.0,
+      27.645
+    ],
+    "volume_mm3": 1187.936284210215
+  },
+  {
+    "code": "H05_1",
+    "name": "Insulated tip clamp cap",
+    "color": "#41576a",
+    "group": "Tip masses",
+    "material": "POM",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      75.5,
+      -20.0,
+      28.355,
+      85.5,
+      20.0,
+      29.855
+    ],
+    "volume_mm3": 579.7051273276215
+  },
+  {
+    "code": "H061_1",
+    "name": "Tip electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Tip masses",
+    "material": "Polyimide",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      75.5,
+      -15.9,
+      27.645,
+      85.5,
+      15.9,
+      27.745
+    ],
+    "volume_mm3": 31.800000000000452
+  },
+  {
+    "code": "H062_1",
+    "name": "Tip electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Tip masses",
+    "material": "Polyimide",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      75.5,
+      -15.9,
+      28.255,
+      85.5,
+      15.9,
+      28.355
+    ],
+    "volume_mm3": 31.800000000000452
+  },
+  {
+    "code": "F031_1",
+    "name": "Root clamp M3 x 8",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      25.6,
+      -21.75,
+      22.145,
+      31.1,
+      -16.25,
+      32.644999999999996
+    ],
+    "volume_mm3": 108.5813341037506
+  },
+  {
+    "code": "F032_1",
+    "name": "Root clamp M3 x 8",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      25.6,
+      16.25,
+      22.145,
+      31.1,
+      21.75,
+      32.644999999999996
+    ],
+    "volume_mm3": 108.5813341037506
+  },
+  {
+    "code": "F041_1",
+    "name": "Tip clamp M2 x 5",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      78.4,
+      -20.1,
+      24.855,
+      82.6,
+      -15.9,
+      29.855000000000004
+    ],
+    "volume_mm3": 19.261689928736622
+  },
+  {
+    "code": "F042_1",
+    "name": "Tip clamp M2 x 5",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      78.4,
+      15.9,
+      24.855,
+      82.6,
+      20.1,
+      29.855000000000004
+    ],
+    "volume_mm3": 19.261689928736622
+  },
+  {
+    "code": "H07_1",
+    "name": "Relative travel limiter cage",
+    "color": "#41576a",
+    "group": "Cages",
+    "material": "POM",
+    "notes": "Upper catch, two side walls, mounting flange. These move with the cover.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      73.5,
+      -27.0,
+      23.745,
+      87.5,
+      27.0,
+      42.0
+    ],
+    "volume_mm3": 4031.5479560377707
+  },
+  {
+    "code": "H08_1",
+    "name": "Removable cage bottom",
+    "color": "#c8d3df",
+    "group": "Cages",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      73.5,
+      -27.0,
+      22.544999999999998,
+      87.5,
+      27.0,
+      23.745
+    ],
+    "volume_mm3": 889.7264085261179
+  },
+  {
+    "code": "H09_1",
+    "name": "Lower tip stop pad",
+    "color": "#263743",
+    "group": "Cages",
+    "material": "EPDM",
+    "notes": "0.60 mm nominal gap from metal proof-mass underside.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      75.5,
+      -16.0,
+      23.745,
+      85.5,
+      16.0,
+      24.045
+    ],
+    "volume_mm3": 96.0000000000002
+  },
+  {
+    "code": "H10_1",
+    "name": "Upper tip stop pad",
+    "color": "#263743",
+    "group": "Cages",
+    "material": "EPDM",
+    "notes": "0.60 mm nominal gap above cap; pitch reduces usable edge clearance.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      75.5,
+      -16.0,
+      30.455,
+      85.5,
+      16.0,
+      30.755
+    ],
+    "volume_mm3": 96.0000000000002
+  },
+  {
+    "code": "F051_1",
+    "name": "Cage closure M2 countersunk",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      78.4,
+      -27.6,
+      22.545,
+      82.6,
+      -23.4,
+      27.045
+    ],
+    "volume_mm3": 18.86002789705069
+  },
+  {
+    "code": "F052_1",
+    "name": "Cage closure M2 countersunk",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 0,
+    "bbox": [
+      78.4,
+      23.4,
+      22.545,
+      82.6,
+      27.6,
+      27.045
+    ],
+    "volume_mm3": 18.86002789705069
+  },
+  {
+    "code": "H01_2",
+    "name": "Cantilever root tower",
+    "color": "#41576a",
+    "group": "Cantilevers",
+    "material": "POM",
+    "notes": "Top and bottom blind threaded bores stay separate. Clamp screws sit outside piezo width.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -36.40255888325765,
+      8.052558883257653,
+      28.355,
+      8.052558883257658,
+      41.05108151132002,
+      42.0
+    ],
+    "volume_mm3": 7525.718569256285
+  },
+  {
+    "code": "H02_2",
+    "name": "Removable lower clamp",
+    "color": "#41576a",
+    "group": "Cantilevers",
+    "material": "POM",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -36.40255888325765,
+      8.052558883257653,
+      24.645,
+      8.052558883257658,
+      41.05108151132002,
+      27.645
+    ],
+    "volume_mm3": 1621.9247833867535
+  },
+  {
+    "code": "H031_2",
+    "name": "Root electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Cantilevers",
+    "material": "Polyimide",
+    "notes": "0.10 mm nominal; supplier must approve clamp construction.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -31.119803920172572,
+      11.102558883257654,
+      27.645,
+      2.7698039201725813,
+      38.001081511320024,
+      27.745
+    ],
+    "volume_mm3": 40.38600000000059
+  },
+  {
+    "code": "H032_2",
+    "name": "Root electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Cantilevers",
+    "material": "Polyimide",
+    "notes": "0.10 mm nominal; supplier must approve clamp construction.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -31.119803920172572,
+      11.102558883257654,
+      28.255,
+      2.7698039201725813,
+      38.001081511320024,
+      28.355
+    ],
+    "volume_mm3": 40.38600000000059
+  },
+  {
+    "code": "P01_2",
+    "name": "PZT 5A bimorph",
+    "color": "#8272cb",
+    "group": "Piezos",
+    "material": "PZT / brass laminate",
+    "notes": "T220-A4BR-2513XB mechanical envelope. Free length 50.8 mm. Nominal flat, before gravity sag.",
+    "motion": "beam",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -56.51980392017256,
+      11.102558883257654,
+      27.745,
+      2.7698039201725813,
+      81.99517202356952,
+      28.255000000000003
+    ],
+    "volume_mm3": 1029.8430000000033
+  },
+  {
+    "code": "H04_2",
+    "name": "Tip proof mass",
+    "color": "#ce9560",
+    "group": "Tip masses",
+    "material": "Stainless steel",
+    "notes": "10 x 40 x 3 blank = 9.60 g before two tapped holes; actual CAD volume in BOM.",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -60.070508075688764,
+      55.384917985725124,
+      24.645,
+      -20.42949192431121,
+      84.0451720235695,
+      27.645
+    ],
+    "volume_mm3": 1187.9362842102148
+  },
+  {
+    "code": "H05_2",
+    "name": "Insulated tip clamp cap",
+    "color": "#41576a",
+    "group": "Tip masses",
+    "material": "POM",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -60.070508075688764,
+      55.384917985725124,
+      28.355,
+      -20.42949192431121,
+      84.0451720235695,
+      29.855
+    ],
+    "volume_mm3": 579.7051273276214
+  },
+  {
+    "code": "H061_2",
+    "name": "Tip electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Tip masses",
+    "material": "Polyimide",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -56.51980392017256,
+      57.43491798572513,
+      27.645,
+      -23.980196079827408,
+      81.99517202356952,
+      27.745
+    ],
+    "volume_mm3": 31.800000000000438
+  },
+  {
+    "code": "H062_2",
+    "name": "Tip electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Tip masses",
+    "material": "Polyimide",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -56.51980392017256,
+      57.43491798572513,
+      28.255,
+      -23.980196079827408,
+      81.99517202356952,
+      28.355
+    ],
+    "volume_mm3": 31.800000000000438
+  },
+  {
+    "code": "F031_2",
+    "name": "Root clamp M3 x 8",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -0.47051732809565694,
+      31.301820197288833,
+      22.145,
+      5.0294826719043435,
+      36.80182019728883,
+      32.644999999999996
+    ],
+    "volume_mm3": 108.58133410375058
+  },
+  {
+    "code": "F032_2",
+    "name": "Root clamp M3 x 8",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -33.379482671904334,
+      12.30182019728884,
+      22.145,
+      -27.87948267190433,
+      17.80182019728884,
+      32.644999999999996
+    ],
+    "volume_mm3": 108.58133410375062
+  },
+  {
+    "code": "F041_2",
+    "name": "Tip clamp M2 x 5",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -26.761542731880084,
+      76.61504500464733,
+      24.855,
+      -22.56154273188008,
+      80.81504500464732,
+      29.855000000000004
+    ],
+    "volume_mm3": 19.26168992873659
+  },
+  {
+    "code": "F042_2",
+    "name": "Tip clamp M2 x 5",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -57.938457268119876,
+      58.61504500464732,
+      24.855,
+      -53.73845726811987,
+      62.815045004647324,
+      29.855000000000004
+    ],
+    "volume_mm3": 19.261689928736633
+  },
+  {
+    "code": "H07_2",
+    "name": "Relative travel limiter cage",
+    "color": "#41576a",
+    "group": "Cages",
+    "material": "POM",
+    "notes": "Upper catch, two side walls, mounting flange. These move with the cover.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -67.13268590217983,
+      50.15286717815625,
+      23.745,
+      -13.367314097820142,
+      89.27722283113839,
+      42.0
+    ],
+    "volume_mm3": 4031.54795603777
+  },
+  {
+    "code": "H08_2",
+    "name": "Removable cage bottom",
+    "color": "#c8d3df",
+    "group": "Cages",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -67.13268590217983,
+      50.15286717815625,
+      22.544999999999998,
+      -13.367314097820142,
+      89.27722283113839,
+      23.745
+    ],
+    "volume_mm3": 889.7264085261179
+  },
+  {
+    "code": "H09_2",
+    "name": "Lower tip stop pad",
+    "color": "#263743",
+    "group": "Cages",
+    "material": "EPDM",
+    "notes": "0.60 mm nominal gap from metal proof-mass underside.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -56.60640646055101,
+      57.384917985725124,
+      23.745,
+      -23.893593539448965,
+      82.0451720235695,
+      24.045
+    ],
+    "volume_mm3": 96.00000000000018
+  },
+  {
+    "code": "H10_2",
+    "name": "Upper tip stop pad",
+    "color": "#263743",
+    "group": "Cages",
+    "material": "EPDM",
+    "notes": "0.60 mm nominal gap above cap; pitch reduces usable edge clearance.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -56.60640646055101,
+      57.384917985725124,
+      30.455,
+      -23.893593539448965,
+      82.0451720235695,
+      30.755
+    ],
+    "volume_mm3": 96.00000000000018
+  },
+  {
+    "code": "F051_2",
+    "name": "Cage closure M2 countersunk",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -20.266352203496794,
+      80.36504500464733,
+      22.545,
+      -16.06635220349679,
+      84.56504500464732,
+      27.045
+    ],
+    "volume_mm3": 18.860027897050685
+  },
+  {
+    "code": "F052_2",
+    "name": "Cage closure M2 countersunk",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 120,
+    "bbox": [
+      -64.43364779650317,
+      54.86504500464733,
+      22.545,
+      -60.23364779650316,
+      59.06504500464733,
+      27.045
+    ],
+    "volume_mm3": 18.860027897050706
+  },
+  {
+    "code": "H01_3",
+    "name": "Cantilever root tower",
+    "color": "#41576a",
+    "group": "Cantilevers",
+    "material": "POM",
+    "notes": "Top and bottom blind threaded bores stay separate. Clamp screws sit outside piezo width.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -36.40255888325766,
+      -41.05108151132002,
+      28.355,
+      8.052558883257635,
+      -8.052558883257635,
+      42.0
+    ],
+    "volume_mm3": 7525.718569256283
+  },
+  {
+    "code": "H02_3",
+    "name": "Removable lower clamp",
+    "color": "#41576a",
+    "group": "Cantilevers",
+    "material": "POM",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -36.40255888325766,
+      -41.05108151132002,
+      24.645,
+      8.052558883257635,
+      -8.052558883257635,
+      27.645
+    ],
+    "volume_mm3": 1621.9247833867528
+  },
+  {
+    "code": "H031_3",
+    "name": "Root electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Cantilevers",
+    "material": "Polyimide",
+    "notes": "0.10 mm nominal; supplier must approve clamp construction.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -31.119803920172586,
+      -38.001081511320024,
+      27.645,
+      2.76980392017256,
+      -11.10255888325764,
+      27.745
+    ],
+    "volume_mm3": 40.38600000000057
+  },
+  {
+    "code": "H032_3",
+    "name": "Root electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Cantilevers",
+    "material": "Polyimide",
+    "notes": "0.10 mm nominal; supplier must approve clamp construction.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -31.119803920172586,
+      -38.001081511320024,
+      28.255,
+      2.76980392017256,
+      -11.10255888325764,
+      28.355
+    ],
+    "volume_mm3": 40.38600000000057
+  },
+  {
+    "code": "P01_3",
+    "name": "PZT 5A bimorph",
+    "color": "#8272cb",
+    "group": "Piezos",
+    "material": "PZT / brass laminate",
+    "notes": "T220-A4BR-2513XB mechanical envelope. Free length 50.8 mm. Nominal flat, before gravity sag.",
+    "motion": "beam",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -56.519803920172606,
+      -81.9951720235695,
+      27.745,
+      2.76980392017256,
+      -11.10255888325764,
+      28.255000000000003
+    ],
+    "volume_mm3": 1029.843000000003
+  },
+  {
+    "code": "H04_3",
+    "name": "Tip proof mass",
+    "color": "#ce9560",
+    "group": "Tip masses",
+    "material": "Stainless steel",
+    "notes": "10 x 40 x 3 blank = 9.60 g before two tapped holes; actual CAD volume in BOM.",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -60.070508075688814,
+      -84.04517202356949,
+      24.645,
+      -20.429491924311268,
+      -55.38491798572509,
+      27.645
+    ],
+    "volume_mm3": 1187.9362842102141
+  },
+  {
+    "code": "H05_3",
+    "name": "Insulated tip clamp cap",
+    "color": "#41576a",
+    "group": "Tip masses",
+    "material": "POM",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -60.070508075688814,
+      -84.04517202356949,
+      28.355,
+      -20.429491924311268,
+      -55.38491798572509,
+      29.855
+    ],
+    "volume_mm3": 579.7051273276211
+  },
+  {
+    "code": "H061_3",
+    "name": "Tip electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Tip masses",
+    "material": "Polyimide",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -56.51980392017261,
+      -81.9951720235695,
+      27.645,
+      -23.980196079827465,
+      -57.434917985725086,
+      27.745
+    ],
+    "volume_mm3": 31.800000000000452
+  },
+  {
+    "code": "H062_3",
+    "name": "Tip electrical isolation shim",
+    "color": "#e8c76b",
+    "group": "Tip masses",
+    "material": "Polyimide",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -56.51980392017261,
+      -81.9951720235695,
+      28.255,
+      -23.980196079827465,
+      -57.434917985725086,
+      28.355
+    ],
+    "volume_mm3": 31.800000000000452
+  },
+  {
+    "code": "F031_3",
+    "name": "Root clamp M3 x 8",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -33.37948267190434,
+      -17.801820197288823,
+      22.145,
+      -27.87948267190434,
+      -12.301820197288821,
+      32.644999999999996
+    ],
+    "volume_mm3": 108.58133410375055
+  },
+  {
+    "code": "F032_3",
+    "name": "Root clamp M3 x 8",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -0.47051732809568314,
+      -36.80182019728884,
+      22.145,
+      5.029482671904317,
+      -31.30182019728884,
+      32.644999999999996
+    ],
+    "volume_mm3": 108.58133410375058
+  },
+  {
+    "code": "F041_3",
+    "name": "Tip clamp M2 x 5",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -57.938457268119926,
+      -62.81504500464729,
+      24.855,
+      -53.73845726811992,
+      -58.615045004647286,
+      29.855000000000004
+    ],
+    "volume_mm3": 19.26168992873664
+  },
+  {
+    "code": "F042_3",
+    "name": "Tip clamp M2 x 5",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "tip",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -26.761542731880148,
+      -80.81504500464729,
+      24.855,
+      -22.561542731880145,
+      -76.6150450046473,
+      29.855000000000004
+    ],
+    "volume_mm3": 19.261689928736583
+  },
+  {
+    "code": "H07_3",
+    "name": "Relative travel limiter cage",
+    "color": "#41576a",
+    "group": "Cages",
+    "material": "POM",
+    "notes": "Upper catch, two side walls, mounting flange. These move with the cover.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -67.13268590217987,
+      -89.27722283113837,
+      23.745,
+      -13.367314097820199,
+      -50.15286717815621,
+      42.0
+    ],
+    "volume_mm3": 4031.5479560377703
+  },
+  {
+    "code": "H08_3",
+    "name": "Removable cage bottom",
+    "color": "#c8d3df",
+    "group": "Cages",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -67.13268590217987,
+      -89.27722283113837,
+      22.544999999999998,
+      -13.367314097820199,
+      -50.15286717815621,
+      23.745
+    ],
+    "volume_mm3": 889.7264085261178
+  },
+  {
+    "code": "H09_3",
+    "name": "Lower tip stop pad",
+    "color": "#263743",
+    "group": "Cages",
+    "material": "EPDM",
+    "notes": "0.60 mm nominal gap from metal proof-mass underside.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -56.60640646055106,
+      -82.04517202356949,
+      23.745,
+      -23.89359353944902,
+      -57.38491798572509,
+      24.045
+    ],
+    "volume_mm3": 96.00000000000026
+  },
+  {
+    "code": "H10_3",
+    "name": "Upper tip stop pad",
+    "color": "#263743",
+    "group": "Cages",
+    "material": "EPDM",
+    "notes": "0.60 mm nominal gap above cap; pitch reduces usable edge clearance.",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -56.60640646055106,
+      -82.04517202356949,
+      30.455,
+      -23.89359353944902,
+      -57.38491798572509,
+      30.755
+    ],
+    "volume_mm3": 96.00000000000026
+  },
+  {
+    "code": "F051_3",
+    "name": "Cage closure M2 countersunk",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -64.43364779650321,
+      -59.06504500464728,
+      22.545,
+      -60.23364779650321,
+      -54.86504500464728,
+      27.045
+    ],
+    "volume_mm3": 18.860027897050735
+  },
+  {
+    "code": "F052_3",
+    "name": "Cage closure M2 countersunk",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "cover",
+    "explode": 45,
+    "angle": 240,
+    "bbox": [
+      -20.266352203496858,
+      -84.5650450046473,
+      22.545,
+      -16.066352203496855,
+      -80.36504500464731,
+      27.045
+    ],
+    "volume_mm3": 18.860027897050678
+  },
+  {
+    "code": "E01",
+    "name": "Reference PCB",
+    "color": "#258979",
+    "group": "Electronics",
+    "material": "FR4",
+    "notes": "44 x 44 x 1.6. Placement concept only: not routed, no Gerbers or component procurement claim.",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -22.0,
+      -22.0,
+      8.5,
+      22.0,
+      22.0,
+      10.1
+    ],
+    "volume_mm3": 3060.956463288528
+  },
+  {
+    "code": "E02_1",
+    "name": "PCB standoff",
+    "color": "#41576a",
+    "group": "Electronics",
+    "material": "POM",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 7,
+    "angle": 0,
+    "bbox": [
+      -21.0,
+      -21.0,
+      5.0,
+      -15.0,
+      -15.0,
+      8.5
+    ],
+    "volume_mm3": 86.83754793603887
+  },
+  {
+    "code": "F06_1",
+    "name": "PCB screw M2 x 6",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 14,
+    "angle": 0,
+    "bbox": [
+      -19.9,
+      -19.9,
+      4.1,
+      -16.1,
+      -16.1,
+      10.1
+    ],
+    "volume_mm3": 21.356085031129826
+  },
+  {
+    "code": "E02_2",
+    "name": "PCB standoff",
+    "color": "#41576a",
+    "group": "Electronics",
+    "material": "POM",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 7,
+    "angle": 0,
+    "bbox": [
+      -21.0,
+      15.0,
+      5.0,
+      -15.0,
+      21.0,
+      8.5
+    ],
+    "volume_mm3": 86.83754793603887
+  },
+  {
+    "code": "F06_2",
+    "name": "PCB screw M2 x 6",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 14,
+    "angle": 0,
+    "bbox": [
+      -19.9,
+      16.1,
+      4.1,
+      -16.1,
+      19.9,
+      10.1
+    ],
+    "volume_mm3": 21.356085031129826
+  },
+  {
+    "code": "E02_3",
+    "name": "PCB standoff",
+    "color": "#41576a",
+    "group": "Electronics",
+    "material": "POM",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 7,
+    "angle": 0,
+    "bbox": [
+      15.0,
+      -21.0,
+      5.0,
+      21.0,
+      -15.0,
+      8.5
+    ],
+    "volume_mm3": 86.83754793603887
+  },
+  {
+    "code": "F06_3",
+    "name": "PCB screw M2 x 6",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 14,
+    "angle": 0,
+    "bbox": [
+      16.1,
+      -19.9,
+      4.1,
+      19.9,
+      -16.1,
+      10.1
+    ],
+    "volume_mm3": 21.356085031129826
+  },
+  {
+    "code": "E02_4",
+    "name": "PCB standoff",
+    "color": "#41576a",
+    "group": "Electronics",
+    "material": "POM",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 7,
+    "angle": 0,
+    "bbox": [
+      15.0,
+      15.0,
+      5.0,
+      21.0,
+      21.0,
+      8.5
+    ],
+    "volume_mm3": 86.83754793603887
+  },
+  {
+    "code": "F06_4",
+    "name": "PCB screw M2 x 6",
+    "color": "#c8d3df",
+    "group": "Fasteners",
+    "material": "Stainless steel",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 14,
+    "angle": 0,
+    "bbox": [
+      16.1,
+      16.1,
+      4.1,
+      19.9,
+      19.9,
+      10.1
+    ],
+    "volume_mm3": 21.356085031129826
+  },
+  {
+    "code": "E03",
+    "name": "Electronics splash hood",
+    "color": "#bddedb",
+    "group": "Electronics enclosure",
+    "material": "Polycarbonate",
+    "notes": "Open bottom bonded to pan; four potted wire holes. Mechanical envelope, ingress performance untested.",
+    "motion": "fixed",
+    "explode": 23,
+    "angle": 0,
+    "bbox": [
+      -26.0,
+      -26.0,
+      5.0,
+      26.0,
+      26.0,
+      19.0
+    ],
+    "volume_mm3": 7816.356639472973
+  },
+  {
+    "code": "E04_1",
+    "name": "Two-pin piezo connector envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Connector envelope",
+    "notes": "Package and board layout remain provisional.",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -15.0,
+      -14.0,
+      10.1,
+      -9.0,
+      -9.0,
+      14.1
+    ],
+    "volume_mm3": 120.0
+  },
+  {
+    "code": "E05_1_0",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -13.5,
+      -6.0,
+      10.1,
+      -10.5,
+      -4.2,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999995
+  },
+  {
+    "code": "E05_1_1",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -13.5,
+      -2.7,
+      10.1,
+      -10.5,
+      -0.9000000000000001,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999996
+  },
+  {
+    "code": "E05_1_2",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -13.5,
+      0.5999999999999996,
+      10.1,
+      -10.5,
+      2.3999999999999995,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999995
+  },
+  {
+    "code": "E05_1_3",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -13.5,
+      3.8999999999999986,
+      10.1,
+      -10.5,
+      5.699999999999998,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999995
+  },
+  {
+    "code": "E04_2",
+    "name": "Two-pin piezo connector envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Connector envelope",
+    "notes": "Package and board layout remain provisional.",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -3.0,
+      -14.0,
+      10.1,
+      3.0,
+      -9.0,
+      14.1
+    ],
+    "volume_mm3": 120.0
+  },
+  {
+    "code": "E05_2_0",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -1.5,
+      -6.0,
+      10.1,
+      1.5,
+      -4.2,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999995
+  },
+  {
+    "code": "E05_2_1",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -1.5,
+      -2.7,
+      10.1,
+      1.5,
+      -0.9000000000000001,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999996
+  },
+  {
+    "code": "E05_2_2",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -1.5,
+      0.5999999999999996,
+      10.1,
+      1.5,
+      2.3999999999999995,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999995
+  },
+  {
+    "code": "E05_2_3",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -1.5,
+      3.8999999999999986,
+      10.1,
+      1.5,
+      5.699999999999998,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999995
+  },
+  {
+    "code": "E04_3",
+    "name": "Two-pin piezo connector envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Connector envelope",
+    "notes": "Package and board layout remain provisional.",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      9.0,
+      -14.0,
+      10.1,
+      15.0,
+      -9.0,
+      14.1
+    ],
+    "volume_mm3": 120.0
+  },
+  {
+    "code": "E05_3_0",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      10.5,
+      -6.0,
+      10.1,
+      13.5,
+      -4.2,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999995
+  },
+  {
+    "code": "E05_3_1",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      10.5,
+      -2.7,
+      10.1,
+      13.5,
+      -0.9000000000000001,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999996
+  },
+  {
+    "code": "E05_3_2",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      10.5,
+      0.5999999999999996,
+      10.1,
+      13.5,
+      2.3999999999999995,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999995
+  },
+  {
+    "code": "E05_3_3",
+    "name": "Rectifier diode envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Semiconductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      10.5,
+      3.8999999999999986,
+      10.1,
+      13.5,
+      5.699999999999998,
+      11.299999999999999
+    ],
+    "volume_mm3": 6.479999999999995
+  },
+  {
+    "code": "E06",
+    "name": "LTC3588-1 package envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "DFN envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -1.5,
+      8.0,
+      10.1,
+      1.5,
+      11.0,
+      11.1
+    ],
+    "volume_mm3": 9.0
+  },
+  {
+    "code": "E07",
+    "name": "10 uH inductor envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Inductor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      5.0,
+      8.0,
+      10.1,
+      9.0,
+      12.0,
+      13.1
+    ],
+    "volume_mm3": 47.99999999999999
+  },
+  {
+    "code": "E08",
+    "name": "47 uF input capacitor envelope",
+    "color": "#c8d3df",
+    "group": "Electronics",
+    "material": "Capacitor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -15.2,
+      7.8,
+      10.1,
+      -8.8,
+      14.2,
+      17.1
+    ],
+    "volume_mm3": 225.1893614093164
+  },
+  {
+    "code": "E09",
+    "name": "47 uF output capacitor envelope",
+    "color": "#c8d3df",
+    "group": "Electronics",
+    "material": "Capacitor envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      11.5,
+      9.5,
+      10.1,
+      16.5,
+      14.5,
+      15.1
+    ],
+    "volume_mm3": 98.17477042468104
+  },
+  {
+    "code": "E10",
+    "name": "Output connector envelope",
+    "color": "#273642",
+    "group": "Electronics",
+    "material": "Connector envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -3.0,
+      14.0,
+      10.1,
+      3.0,
+      19.0,
+      14.1
+    ],
+    "volume_mm3": 120.0
+  },
+  {
+    "code": "E11_1",
+    "name": "Passives envelope",
+    "color": "#efc671",
+    "group": "Electronics",
+    "material": "Passive envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      3.0,
+      4.0,
+      10.1,
+      5.0,
+      5.25,
+      11.1
+    ],
+    "volume_mm3": 2.5
+  },
+  {
+    "code": "E11_2",
+    "name": "Passives envelope",
+    "color": "#efc671",
+    "group": "Electronics",
+    "material": "Passive envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      7.0,
+      3.0,
+      10.1,
+      9.0,
+      4.25,
+      11.1
+    ],
+    "volume_mm3": 2.5
+  },
+  {
+    "code": "E11_3",
+    "name": "Passives envelope",
+    "color": "#efc671",
+    "group": "Electronics",
+    "material": "Passive envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -6.0,
+      8.0,
+      10.1,
+      -4.0,
+      9.25,
+      11.1
+    ],
+    "volume_mm3": 2.5
+  },
+  {
+    "code": "E11_4",
+    "name": "Passives envelope",
+    "color": "#efc671",
+    "group": "Electronics",
+    "material": "Passive envelope",
+    "notes": "",
+    "motion": "fixed",
+    "explode": 13,
+    "angle": 0,
+    "bbox": [
+      -6.0,
+      12.0,
+      10.1,
+      -4.0,
+      13.25,
+      11.1
+    ],
+    "volume_mm3": 2.5
+  },
+  {
+    "code": "W01_1_0",
+    "name": "Flexible piezo lead",
+    "color": "#e87d6b",
+    "group": "Wiring",
+    "material": "Insulated fine wire",
+    "notes": "Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.",
+    "motion": "wire",
+    "explode": 30,
+    "angle": 0,
+    "bbox": [
+      -12.563242280092588,
+      -28.45169295330006,
+      13.825974573637895,
+      45.194483640876705,
+      0.0928158589026305,
+      36.426717704726116
+    ],
+    "volume_mm3": 54.163607731639374
+  },
+  {
+    "code": "W01_1_1",
+    "name": "Flexible piezo lead",
+    "color": "#efc671",
+    "group": "Wiring",
+    "material": "Insulated fine wire",
+    "notes": "Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.",
+    "motion": "wire",
+    "explode": 30,
+    "angle": 0,
+    "bbox": [
+      -12.516947704467603,
+      -9.888788781687627,
+      13.809557064793358,
+      39.008759501170296,
+      28.042731698392984,
+      37.3938532407873
+    ],
+    "volume_mm3": 54.97428780395467
+  },
+  {
+    "code": "W01_2_0",
+    "name": "Flexible piezo lead",
+    "color": "#e87d6b",
+    "group": "Wiring",
+    "material": "Insulated fine wire",
+    "notes": "Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.",
+    "motion": "wire",
+    "explode": 30,
+    "angle": 120,
+    "bbox": [
+      -18.24883160828198,
+      -11.095131062689747,
+      13.820273907912942,
+      13.440271610076405,
+      48.19358535533804,
+      36.42363297314554
+    ],
+    "volume_mm3": 64.1170533429622
+  },
+  {
+    "code": "W01_2_1",
+    "name": "Flexible piezo lead",
+    "color": "#efc671",
+    "group": "Wiring",
+    "material": "Insulated fine wire",
+    "notes": "Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.",
+    "motion": "wire",
+    "explode": 30,
+    "angle": 120,
+    "bbox": [
+      -41.23173984165563,
+      -10.024078109374045,
+      13.805626222670472,
+      0.46854957155453375,
+      30.0626906325425,
+      37.36780107769951
+    ],
+    "volume_mm3": 51.926304513093356
+  },
+  {
+    "code": "W01_3_0",
+    "name": "Flexible piezo lead",
+    "color": "#e87d6b",
+    "group": "Wiring",
+    "material": "Insulated fine wire",
+    "notes": "Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.",
+    "motion": "wire",
+    "explode": 30,
+    "angle": 240,
+    "bbox": [
+      -41.019881230783746,
+      -33.0492267334735,
+      13.815476532160567,
+      12.527012566861329,
+      -2.6626107882777776,
+      36.419388554728556
+    ],
+    "volume_mm3": 51.479004686112106
+  },
+  {
+    "code": "W01_3_1",
+    "name": "Flexible piezo lead",
+    "color": "#efc671",
+    "group": "Wiring",
+    "material": "Insulated fine wire",
+    "notes": "Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.",
+    "motion": "wire",
+    "explode": 30,
+    "angle": 240,
+    "bbox": [
+      -15.652984260767857,
+      -45.818339698390005,
+      13.798599399575657,
+      13.455610321985029,
+      -8.96297156404497,
+      37.31823954970045
+    ],
+    "volume_mm3": 43.958756063400145
+  },
+  {
+    "code": "W02",
+    "name": "Output cable routing",
+    "color": "#273642",
+    "group": "Wiring",
+    "material": "Insulated cable",
+    "notes": "Schematic route; cable termination and strain relief to be finalised.",
+    "motion": "fixed",
+    "explode": 0,
+    "angle": 0,
+    "bbox": [
+      -2.0200164944610437,
+      -60.96557840785846,
+      4.00928335280663,
+      38.69391340382725,
+      40.032989296924484,
+      24.534229524875915
+    ],
+    "volume_mm3": 527.9109713437208
+  }
+]

@@ -1,0 +1,143 @@
+ID,Component,Material,Motion,Volume mm^3,Notes
+A01,Housing and six structural stops,6061-T6 aluminium,fixed,286965.327,CNC concept; six integral Ø12 stops finish at z40. Three Ø3 weeps; underside cable port.
+A02,Perimeter sliding wiper,EPDM,fixed,1344.071,Nominal lip envelope in 2 mm groove; friction and water ingress unqualified.
+A03_1,Stop bumper ring,EPDM,fixed,87.965,Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.
+A03_2,Stop bumper ring,EPDM,fixed,87.965,Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.
+A03_3,Stop bumper ring,EPDM,fixed,87.965,Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.
+A03_4,Stop bumper ring,EPDM,fixed,87.965,Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.
+A03_5,Stop bumper ring,EPDM,fixed,87.965,Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.
+A03_6,Stop bumper ring,EPDM,fixed,87.965,Contact at 1.50 mm stroke; compress 0.50 mm before metal stop.
+A04,Underside cable grommet,EPDM,fixed,188.496,Cable exits underside into a receiving recess; cable itself excluded from rigid envelope.
+A10,Moving load-spreading plate,6061-T6 aluminium,cover,190202.682,18 countersunk M3 fixing holes; 1.00 mm side clearance to pan.
+A11,Replaceable textured tread,EPDM rubber,cover,62446.468,2 mm nominal including adhesive allowance; grooves 0.35 mm deep. Slip resistance untested.
+F01_1,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_2,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_3,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_4,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_5,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_6,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_7,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_8,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_9,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_10,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_11,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_12,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_13,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_14,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_15,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_16,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_17,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+F01_18,Cover mounting screw M3 x 10,Stainless steel,cover,89.703,Thread envelope; no helical threads.
+G01_1,Captive guide and return retainer,Stainless steel,fixed,1043.7,"Ø6 shaft, Ø10 head; lower M4 female thread. Head underside at z36 sets rest height."
+G02_1,Sliding guide cup and spring seat,6061-T6 aluminium,cover,2689.078,Ø8 liner seat; Ø10.60 head pocket. Four-mm flange seats spring at z38.
+G03_1,Replaceable guide liner,POM,cover,231.449,Ø8 outside / Ø6.10 inside / 11 long. Nominal mating fit; retention to be qualified.
+S01_1,Return spring,Spring steel,spring,1943.5,"Custom target: wire 2.5, mean Ø18, 5 active / 7 total turns, free 34, installed 33 mm."
+F02_1,Guide anchor countersunk M4 x 11 envelope,Stainless steel,fixed,184.675,Custom nominal length envelope; engagement is 6 mm into guide. Threads simplified.
+G01_2,Captive guide and return retainer,Stainless steel,fixed,1043.7,"Ø6 shaft, Ø10 head; lower M4 female thread. Head underside at z36 sets rest height."
+G02_2,Sliding guide cup and spring seat,6061-T6 aluminium,cover,2689.078,Ø8 liner seat; Ø10.60 head pocket. Four-mm flange seats spring at z38.
+G03_2,Replaceable guide liner,POM,cover,231.449,Ø8 outside / Ø6.10 inside / 11 long. Nominal mating fit; retention to be qualified.
+S01_2,Return spring,Spring steel,spring,1943.5,"Custom target: wire 2.5, mean Ø18, 5 active / 7 total turns, free 34, installed 33 mm."
+F02_2,Guide anchor countersunk M4 x 11 envelope,Stainless steel,fixed,184.675,Custom nominal length envelope; engagement is 6 mm into guide. Threads simplified.
+G01_3,Captive guide and return retainer,Stainless steel,fixed,1043.7,"Ø6 shaft, Ø10 head; lower M4 female thread. Head underside at z36 sets rest height."
+G02_3,Sliding guide cup and spring seat,6061-T6 aluminium,cover,2689.078,Ø8 liner seat; Ø10.60 head pocket. Four-mm flange seats spring at z38.
+G03_3,Replaceable guide liner,POM,cover,231.449,Ø8 outside / Ø6.10 inside / 11 long. Nominal mating fit; retention to be qualified.
+S01_3,Return spring,Spring steel,spring,1943.5,"Custom target: wire 2.5, mean Ø18, 5 active / 7 total turns, free 34, installed 33 mm."
+F02_3,Guide anchor countersunk M4 x 11 envelope,Stainless steel,fixed,184.675,Custom nominal length envelope; engagement is 6 mm into guide. Threads simplified.
+H01_1,Cantilever root tower,POM,cover,7525.719,Top and bottom blind threaded bores stay separate. Clamp screws sit outside piezo width.
+H02_1,Removable lower clamp,POM,cover,1621.925,
+H031_1,Root electrical isolation shim,Polyimide,cover,40.386,0.10 mm nominal; supplier must approve clamp construction.
+H032_1,Root electrical isolation shim,Polyimide,cover,40.386,0.10 mm nominal; supplier must approve clamp construction.
+P01_1,PZT 5A bimorph,PZT / brass laminate,beam,1029.843,"T220-A4BR-2513XB mechanical envelope. Free length 50.8 mm. Nominal flat, before gravity sag."
+H04_1,Tip proof mass,Stainless steel,tip,1187.936,10 x 40 x 3 blank = 9.60 g before two tapped holes; actual CAD volume in BOM.
+H05_1,Insulated tip clamp cap,POM,tip,579.705,
+H061_1,Tip electrical isolation shim,Polyimide,tip,31.8,
+H062_1,Tip electrical isolation shim,Polyimide,tip,31.8,
+F031_1,Root clamp M3 x 8,Stainless steel,cover,108.581,
+F032_1,Root clamp M3 x 8,Stainless steel,cover,108.581,
+F041_1,Tip clamp M2 x 5,Stainless steel,tip,19.262,
+F042_1,Tip clamp M2 x 5,Stainless steel,tip,19.262,
+H07_1,Relative travel limiter cage,POM,cover,4031.548,"Upper catch, two side walls, mounting flange. These move with the cover."
+H08_1,Removable cage bottom,Stainless steel,cover,889.726,
+H09_1,Lower tip stop pad,EPDM,cover,96.0,0.60 mm nominal gap from metal proof-mass underside.
+H10_1,Upper tip stop pad,EPDM,cover,96.0,0.60 mm nominal gap above cap; pitch reduces usable edge clearance.
+F051_1,Cage closure M2 countersunk,Stainless steel,cover,18.86,
+F052_1,Cage closure M2 countersunk,Stainless steel,cover,18.86,
+H01_2,Cantilever root tower,POM,cover,7525.719,Top and bottom blind threaded bores stay separate. Clamp screws sit outside piezo width.
+H02_2,Removable lower clamp,POM,cover,1621.925,
+H031_2,Root electrical isolation shim,Polyimide,cover,40.386,0.10 mm nominal; supplier must approve clamp construction.
+H032_2,Root electrical isolation shim,Polyimide,cover,40.386,0.10 mm nominal; supplier must approve clamp construction.
+P01_2,PZT 5A bimorph,PZT / brass laminate,beam,1029.843,"T220-A4BR-2513XB mechanical envelope. Free length 50.8 mm. Nominal flat, before gravity sag."
+H04_2,Tip proof mass,Stainless steel,tip,1187.936,10 x 40 x 3 blank = 9.60 g before two tapped holes; actual CAD volume in BOM.
+H05_2,Insulated tip clamp cap,POM,tip,579.705,
+H061_2,Tip electrical isolation shim,Polyimide,tip,31.8,
+H062_2,Tip electrical isolation shim,Polyimide,tip,31.8,
+F031_2,Root clamp M3 x 8,Stainless steel,cover,108.581,
+F032_2,Root clamp M3 x 8,Stainless steel,cover,108.581,
+F041_2,Tip clamp M2 x 5,Stainless steel,tip,19.262,
+F042_2,Tip clamp M2 x 5,Stainless steel,tip,19.262,
+H07_2,Relative travel limiter cage,POM,cover,4031.548,"Upper catch, two side walls, mounting flange. These move with the cover."
+H08_2,Removable cage bottom,Stainless steel,cover,889.726,
+H09_2,Lower tip stop pad,EPDM,cover,96.0,0.60 mm nominal gap from metal proof-mass underside.
+H10_2,Upper tip stop pad,EPDM,cover,96.0,0.60 mm nominal gap above cap; pitch reduces usable edge clearance.
+F051_2,Cage closure M2 countersunk,Stainless steel,cover,18.86,
+F052_2,Cage closure M2 countersunk,Stainless steel,cover,18.86,
+H01_3,Cantilever root tower,POM,cover,7525.719,Top and bottom blind threaded bores stay separate. Clamp screws sit outside piezo width.
+H02_3,Removable lower clamp,POM,cover,1621.925,
+H031_3,Root electrical isolation shim,Polyimide,cover,40.386,0.10 mm nominal; supplier must approve clamp construction.
+H032_3,Root electrical isolation shim,Polyimide,cover,40.386,0.10 mm nominal; supplier must approve clamp construction.
+P01_3,PZT 5A bimorph,PZT / brass laminate,beam,1029.843,"T220-A4BR-2513XB mechanical envelope. Free length 50.8 mm. Nominal flat, before gravity sag."
+H04_3,Tip proof mass,Stainless steel,tip,1187.936,10 x 40 x 3 blank = 9.60 g before two tapped holes; actual CAD volume in BOM.
+H05_3,Insulated tip clamp cap,POM,tip,579.705,
+H061_3,Tip electrical isolation shim,Polyimide,tip,31.8,
+H062_3,Tip electrical isolation shim,Polyimide,tip,31.8,
+F031_3,Root clamp M3 x 8,Stainless steel,cover,108.581,
+F032_3,Root clamp M3 x 8,Stainless steel,cover,108.581,
+F041_3,Tip clamp M2 x 5,Stainless steel,tip,19.262,
+F042_3,Tip clamp M2 x 5,Stainless steel,tip,19.262,
+H07_3,Relative travel limiter cage,POM,cover,4031.548,"Upper catch, two side walls, mounting flange. These move with the cover."
+H08_3,Removable cage bottom,Stainless steel,cover,889.726,
+H09_3,Lower tip stop pad,EPDM,cover,96.0,0.60 mm nominal gap from metal proof-mass underside.
+H10_3,Upper tip stop pad,EPDM,cover,96.0,0.60 mm nominal gap above cap; pitch reduces usable edge clearance.
+F051_3,Cage closure M2 countersunk,Stainless steel,cover,18.86,
+F052_3,Cage closure M2 countersunk,Stainless steel,cover,18.86,
+E01,Reference PCB,FR4,fixed,3060.956,"44 x 44 x 1.6. Placement concept only: not routed, no Gerbers or component procurement claim."
+E02_1,PCB standoff,POM,fixed,86.838,
+F06_1,PCB screw M2 x 6,Stainless steel,fixed,21.356,
+E02_2,PCB standoff,POM,fixed,86.838,
+F06_2,PCB screw M2 x 6,Stainless steel,fixed,21.356,
+E02_3,PCB standoff,POM,fixed,86.838,
+F06_3,PCB screw M2 x 6,Stainless steel,fixed,21.356,
+E02_4,PCB standoff,POM,fixed,86.838,
+F06_4,PCB screw M2 x 6,Stainless steel,fixed,21.356,
+E03,Electronics splash hood,Polycarbonate,fixed,7816.357,"Open bottom bonded to pan; four potted wire holes. Mechanical envelope, ingress performance untested."
+E04_1,Two-pin piezo connector envelope,Connector envelope,fixed,120.0,Package and board layout remain provisional.
+E05_1_0,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E05_1_1,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E05_1_2,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E05_1_3,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E04_2,Two-pin piezo connector envelope,Connector envelope,fixed,120.0,Package and board layout remain provisional.
+E05_2_0,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E05_2_1,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E05_2_2,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E05_2_3,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E04_3,Two-pin piezo connector envelope,Connector envelope,fixed,120.0,Package and board layout remain provisional.
+E05_3_0,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E05_3_1,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E05_3_2,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E05_3_3,Rectifier diode envelope,Semiconductor envelope,fixed,6.48,
+E06,LTC3588-1 package envelope,DFN envelope,fixed,9.0,
+E07,10 uH inductor envelope,Inductor envelope,fixed,48.0,
+E08,47 uF input capacitor envelope,Capacitor envelope,fixed,225.189,
+E09,47 uF output capacitor envelope,Capacitor envelope,fixed,98.175,
+E10,Output connector envelope,Connector envelope,fixed,120.0,
+E11_1,Passives envelope,Passive envelope,fixed,2.5,
+E11_2,Passives envelope,Passive envelope,fixed,2.5,
+E11_3,Passives envelope,Passive envelope,fixed,2.5,
+E11_4,Passives envelope,Passive envelope,fixed,2.5,
+W01_1_0,Flexible piezo lead,Insulated fine wire,wire,54.164,Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.
+W01_1_1,Flexible piezo lead,Insulated fine wire,wire,54.974,Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.
+W01_2_0,Flexible piezo lead,Insulated fine wire,wire,64.117,Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.
+W01_2_1,Flexible piezo lead,Insulated fine wire,wire,51.926,Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.
+W01_3_0,Flexible piezo lead,Insulated fine wire,wire,51.479,Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.
+W01_3_1,Flexible piezo lead,Insulated fine wire,wire,43.959,Routing envelope; two electrode terminations and service-loop attachment need bench finalisation.
+W02,Output cable routing,Insulated cable,fixed,527.911,Schematic route; cable termination and strain relief to be finalised.

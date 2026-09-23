@@ -1,0 +1,36 @@
+{
+  "scope": "Nominal rigid CAD at rest and 2 mm stroke. No FEA or fatigue/ingress/energy validation.",
+  "part_count": 142,
+  "invalid_parts": [],
+  "rest_unintended_rigid_interferences_mm3": [],
+  "full_stroke_unintended_rigid_interferences_mm3": [],
+  "measured_housing_bbox_mm": {
+    "x": 230.94010767588497,
+    "y": 200.00000000000006,
+    "z": 50.000000000000604
+  },
+  "derived_dimensions_mm": {
+    "across_flats": 200,
+    "across_corners": 230.9401076758503,
+    "side_length": 115.47005383792516,
+    "cover_to_wall_each_flat": 1.0,
+    "hard_stop_stroke": 2,
+    "bumper_contact_stroke": 1.5,
+    "guide_diametral_clearance": 0.09999999999999964,
+    "head_top_to_cover_at_full_stroke": 1,
+    "nominal_lower_tip_gap": 0.5999999999999979,
+    "nominal_upper_tip_gap": 0.5999999999999979
+  },
+  "notes": [
+    "Threaded joints use nominal envelopes, not helical mating threads.",
+    "Beam envelope is flat; small gravitational sag is estimated in the report.",
+    "Tip pitch means 0.60 mm edge gaps are not a \u00b10.60 mm permissible centre displacement.",
+    "Spring coils are a CAD sweep of a custom target, not a sourced qualified spring.",
+    "Wire routing and electronic package envelopes are provisional and excluded from rigid clearance verdict."
+  ],
+  "passed": true,
+  "tip_pitch_clearance_at_q_plus_minus_0_45_mm": {
+    "upper": 0.07651947336812626,
+    "lower": 0.07668235312439364
+  }
+}
